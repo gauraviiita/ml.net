@@ -1,1 +1,17 @@
 Here we see to create an first ML model in .net
+
+# Create your app
+
+1. Select Create a new project from the Visual Studio 2022 start window.
+
+2. Select the C# Console App project template.
+
+3. Change the project name to myMLApp.
+
+4. Make sure Place solution and project in the same directory is unchecked.
+
+5. Select the Next button.
+
+6. Select .NET 6.0 (Long-term support) as the Framework.
+
+7. Select the Create button. Visual Studio creates your project and loads the Program.cs file
