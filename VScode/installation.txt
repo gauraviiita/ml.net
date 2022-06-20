@@ -1,1 +1,8 @@
-Here we learn to instal vs code for ml.net
+# Here we learn to instal vs code for ml.net
+
+Initially download vs code for windows using the following link.
+
+https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=17&WT.mc_id=dotnet-35129-website
+
+Then during the installation choose ".net desktop development option". It will automatically select the ML.NET MODEL BUILDER in the right section. 
+Install it. 
