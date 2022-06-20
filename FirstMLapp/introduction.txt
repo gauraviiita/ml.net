@@ -1,3 +1,6 @@
+Follow this link to understand it 
+https://dotnet.microsoft.com/en-us/learn/ml-dotnet/get-started-tutorial/install
+
 Here we see to create an first ML model in .net
 
 # Create your app
